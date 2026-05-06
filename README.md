@@ -18,4 +18,4 @@ O modelo identificou 3 grupos principais:
 3. **Perfil Técnico:** Atletas com dominância em atributos específicos.
 
 ## 🔗 Links
-- [Leia a análise estratégia completa no Medium]()
+- [Leia a análise estratégia completa no Medium](https://medium.com/@erick.carlis/scouting-utilizando-machine-learning-para-identificar-perfis-de-atletas-clustering-com-o-dataset-c248ca35bdca?postPublishedType=initial)
